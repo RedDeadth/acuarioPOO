@@ -45,5 +45,5 @@ open class Acuario (open var largo: Int = 100, open var ancho: Int = 20, open va
         //set(valor) {
             //alto = (valor * 1000) / (ancho * largo)
         //}
-
 }
+
